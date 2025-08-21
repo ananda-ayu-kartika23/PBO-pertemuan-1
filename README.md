@@ -1,6 +1,9 @@
 # PBO-pertemuan-1
 Deskripsi Tugas
 Pada tugas Pemrograman Berbasis Objek (PBO) pertemuan 1 ini yaitu mengimplementasikan konsep inheritance dengan extends dan set get. 
-inheritance (pewarisan) dalam pemrograman berorientasi objek adalah konsep di mana sebuah kelas baru (subclass) dapat mewarisi atribut (variabel) dan metode (fungsi) dari kelas yang sudah ada (superclass).
-extends digunakan dalam Java untuk membuat hubungan pewarisan antar kelas, di mana subclass (anak) mewarisi atribut dan method dari superclass (induk).
-Sedangkan setter adalah method untuk mengisi atau mengubah nilai atribut, dan getter adalah method untuk mengambil atau menampilkan nilai atribut.
+# Inheritance
+ Inheritance (Pewarisan) → konsep dimana suatu class dapat mewarisi atribut dan method dari class lain sehingga kode menjadi lebih sederhana, terstruktur, dan dapat digunakan kembali.
+# Extends
+Extends → keyword yang digunakan untuk menghubungkan class child (subclass) dengan class parent (superclass). Dengan extends, subclass otomatis memiliki properti dan method dari superclass.
+# Setter dan Getter
+Setter dan Getter → method khusus yang digunakan untuk mengatur (set) dan mengambil (get) nilai atribut pada class. Teknik ini menjaga prinsip enkapsulasi agar data tetap aman dan hanya dapat diakses melalui method yang disediakan.
